@@ -1,6 +1,6 @@
 import React from "react";
 
-const Python = require("./assets/python.png");
+const Python = require("./assets/python.jpg");
 const SQL = require("./assets/SQL.png");
 const programmtion = require("./assets/prog.jpg");
 
